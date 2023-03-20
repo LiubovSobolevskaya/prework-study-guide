@@ -4,15 +4,6 @@
 
 The Prework Study Guide was developed for individuals enrolled in the boot camp's program and are going through the Prework. It comprises of materials covering HTML, CSS, Git, and JavaScript.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
